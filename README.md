@@ -1,7 +1,8 @@
 # Legal Advisor (LEAD) 
 
 ## Descripción
-"Legal Advisor" es un sistema informático jurídico diseñado para la individualización y acuerdos sobre la pena. Esta aplicación en Java proporciona herramientas y recursos útiles para abogados, jueces y profesionales del derecho.
+"Legal Advisor" es un sistema informático jurídico diseñado para la individualización y acuerdos sobre la pena. Esta aplicación en Java proporciona herramientas y recursos útiles para abogados y jueces ,tiene como objetivo determinar la recomendación de la pena a partir de circunstancias objetivas y subjetivas consideradas relevantes dentro de un caso proporcionado.
+
 
 ## Características
 - Áreas Exclusivas: Espacios dedicados para diferentes roles dentro del sistema judicial.
