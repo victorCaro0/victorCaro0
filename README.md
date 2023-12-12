@@ -1,5 +1,3 @@
-Sistema Informático Jurídico para la Individualización y Acuerdos sobre la Pena
-
 # Legal Advisor (LEAD) 
 
 ## Descripción
