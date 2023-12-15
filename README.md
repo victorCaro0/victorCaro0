@@ -6,7 +6,8 @@
 
 UMl de mi parte del proyecto: 
 
-![image](https://github.com/victorCaro0/victorCaro0/assets/126029696/a5388f69-0aba-478e-900d-db9882ada687)
+![image](https://github.com/victorCaro0/victorCaro0/assets/126029696/19e579ae-e1e5-4c54-be44-ebdfac60ba53)
+
 
 Victima: 
 
@@ -47,9 +48,4 @@ La clase también tiene los siguientes métodos:
 
 - Hecho: es el constructor de la clase, que se encarga de inicializar los atributos con los valores que se pasan como parámetros. El constructor se declara con el signo + al principio, lo que indica que es público, es decir, que se puede llamar desde cualquier parte del programa. El constructor tiene el mismo nombre que la clase y no devuelve ningún valor.
 - getNumExp: es un método que permite obtener el valor del atributo numExp. El método se declara con el signo + al principio, lo que indica que es público. El método no recibe ningún parámetro y devuelve un valor de tipo String que representa el número de expediente del hecho. El método se llama getNumExp siguiendo la convención de Java para los métodos que acceden a los atributos, que empiezan por get seguido del nombre del atributo con la primera letra en mayúscula.
-
-
-A continuacion el Diagrama UML general del proyecto:
-
-  ![Uml_DPOO](https://github.com/victorCaro0/victorCaro0/assets/126029696/5df61eb5-2a9e-41c6-ad05-46dfdb2376cd)
 
